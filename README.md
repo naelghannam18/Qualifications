@@ -14,3 +14,12 @@ Accomplishement:
 SchoolSecured: A student location monitoring System using IoT and 2G.
 Interfaces: Website, Web application, Mobile Application.
 Technologies Used: Java, ASP.NET, Firebase, NoSQL, HTML, CSS, JAVASCRIPT, PYTHON, BASH, 2G, Location Services
+
+Experiences: 
+2022 - Present: Egety.
+Full Stack Developper.
+
+Tasks And Acoomplishements:
+- Created a Responsive Website using React.
+- Created a Responsive Portal for Users to access Services using Reactjs, Nodejs, MongoDB.
+- Handled Deployement of Website and maintaining pushing new code.
