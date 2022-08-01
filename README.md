@@ -23,3 +23,21 @@ Tasks And Acoomplishements:
 - Created a Responsive Website using React.
 - Created a Responsive Portal for Users to access Services using Reactjs, Nodejs, MongoDB.
 - Handled Deployement of Website and maintaining pushing new code.
+
+Technical Skills: 
+- MongoDB, Express, ReactJs, node.js. (MERN Stack)
+- Android Development using Java.
+- Good Skills In python, Java, Javascript and C#.
+- Basic Knowledge in Cloud Computing. (AWS, AZURE)
+- Experience using Microsoft's Azure.
+- Good Experience in OOP.
+
+Personal Skills:
+- Logic-Driven, Detail-Oriented Individual.
+- Team Player.
+- Excellent Communication Skills.
+
+Languages:
+- Arabic (Native)
+- French (French Educated)
+- English (Professional Working Proficiency)
